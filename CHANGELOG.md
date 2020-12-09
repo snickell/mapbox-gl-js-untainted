@@ -1,4 +1,9 @@
-## 1.13.0
+## maps-gl 1.13.0
+
+### 🐞 Bug fixes
+
+- Fix a bug where `mapbox-gl-js` wasn't open source anymore (https://github.com/mapbox/mapbox-gl-js/issues/10162)
+## mapbox-gl-js 1.13.0
 
 ### ✨ Features and improvements
 
