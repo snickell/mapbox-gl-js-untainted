@@ -1,6 +1,6 @@
 **MapsGL** is a community fork of [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), which as of Dec 8, 2020 is no longer open source.
 
-I'd like to encourage anyone else with a stake in a healthy, open source `mapbox-gl-js` fork to contribute here, as we figure out where to go next. Its important to me that a healthy project takes root, so I'm happy to add anyone to the project who wants to contribute/lead/etc!
+Anyone with a stake in a healthy, open source `mapbox-gl-js` fork is welcome to contribute and discuss here. In the short term, we'll be very open in granting project leadership/commit privileges. When in doubt, we favour including everyone affected by the license change, with the goal of minimizing fragmentation.
 
 ## License
 
