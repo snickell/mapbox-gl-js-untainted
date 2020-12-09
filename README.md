@@ -6,7 +6,11 @@ To **contribute in the early stages, [chat on gitter](https://gitter.im/maps-gl/
 
 Anyone with a stake in a healthy community fork is welcome to help us figure out our next steps. In the short term, we'll be very open to granting project leadership/commit privileges. When in doubt, we favour including everyone (with some github/gitlab/other reputation we can verify) affected by the license change, with the **goal of minimizing fragmentation**.
 
-If you are a company or project depending on an open source `mapbox-gl-js`, please consider joining our effort instead of starting your own fork :-) We would *much* rather have it "one project" rather than "our way" ;-) If you know of other forks, please reach out to them, or file an issue on maps-gl for us to reach out to them.
+### Avoiding Fragmentation
+
+If you are a company or project depending on an open source `mapbox-gl-js`, please consider joining our effort instead of starting your own fork! We would *much* rather have "one project" rather than "our way" ;-) 
+
+If you know of other forks, please contribute to a coherent future by reaching out to them, or file an issue on `maps-gl` for us to reach out to them... or both.
 
 ## License
 
