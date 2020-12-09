@@ -1,4 +1,4 @@
-**MapsGL** is a community fork of [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), which as of Dec 8, 2020 is no longer open source.
+**MapsGL** is a community fork derived from [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), which as of Dec 8, 2020 is no longer open source.
 
 [<img width="200" alt="MapsGL" src="https://user-images.githubusercontent.com/223277/101580282-7534f700-397e-11eb-8b58-687f52e2a8cf.png">](http://mapsgl.org)
 
