@@ -1,34 +1,19 @@
-[<img width="400" alt="Mapbox" src="https://raw.githubusercontent.com/mapbox/mapbox-gl-js-docs/publisher-production/docs/pages/assets/logo.png">](https://www.mapbox.com/)
+**MapsGL** is a community fork derived from [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), which as of Dec 8, 2020 is no longer open source.
 
-**Mapbox GL JS** is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the
-[Mapbox Style Specification](https://docs.mapbox.com/mapbox-gl-js/style-spec/), applies them to vector tiles that
-conform to the [Mapbox Vector Tile Specification](https://github.com/mapbox/vector-tile-spec), and renders them using
-WebGL.
+[<img width="200" alt="MapsGL" src="https://user-images.githubusercontent.com/223277/101580282-7534f700-397e-11eb-8b58-687f52e2a8cf.png">](http://mapsgl.org)
 
-Mapbox GL JS is part of the [cross-platform Mapbox GL ecosystem](https://www.mapbox.com/maps/), which also includes
-compatible native SDKs for applications on [Android](https://docs.mapbox.com/android/maps/overview/),
-[iOS](https://docs.mapbox.com/ios/maps/overview/), [macOS](http://mapbox.github.io/mapbox-gl-native/macos),
-[Qt](https://github.com/mapbox/mapbox-gl-native/tree/master/platform/qt), and [React Native](https://github.com/mapbox/react-native-mapbox-gl/). Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you
-create. To get started with GL JS or any of our other building blocks,
-[sign up for a Mapbox account](https://www.mapbox.com/signup/).
+To **contribute in the early stages, [chat on gitter](https://gitter.im/maps-gl/maps-gl)**, file issues, or email hackerswelcome@mapsgl.org. 
 
-In addition to GL JS, this repository contains code, issues, and test fixtures that are common to both GL JS and the
-native SDKs. For code and issues specific to the native SDKs, see the
-[mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native/) repository.
+Anyone with a stake in a healthy community fork is welcome to help us figure out our next steps. In the short term, we'll be very open to granting project leadership/commit privileges. When in doubt, we favour including everyone (with some github/gitlab/other reputation we can verify) affected by the license change, with the **goal of minimizing fragmentation**.
 
-- [Getting started with Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/overview/)
-- [Tutorials](https://docs.mapbox.com/help/tutorials/#web-apps)
-- [API documentation](https://docs.mapbox.com/mapbox-gl-js/api/)
-- [Examples](https://docs.mapbox.com/mapbox-gl-js/examples/)
-- [Style documentation](https://docs.mapbox.com/mapbox-gl-js/style-spec/)
-- [Open source styles](https://github.com/mapbox/mapbox-gl-styles)
-- [Contributor documentation](./CONTRIBUTING.md)
+### Avoiding Fragmentation
 
-[<img width="981" alt="Mapbox GL gallery" src="https://raw.githubusercontent.com/mapbox/mapbox-gl-js-docs/publisher-production/docs/pages/assets/gallery.png">](https://www.mapbox.com/gallery/)
+If you are a company or project depending on an open source `mapbox-gl-js`, please consider joining our effort instead of starting your own fork! We would *much* rather have "one project" rather than "our way" ;-) 
+
+If you know of other forks, please contribute to a coherent future by reaching out to them, or file an issue on `maps-gl` for us to reach out to them... or both.
 
 ## License
 
-Mapbox GL JS is licensed under the [3-Clause BSD license](./LICENSE.txt).
-The licenses of its dependencies are tracked via [FOSSA](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmapbox-gl-js):
+MapsGL is licensed under the [3-Clause BSD license](./LICENSE.txt).
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmapbox-gl-js.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmapbox-gl-js?ref=badge_large)
+[![Join the chat at https://gitter.im/maps-gl/maps-gl](https://badges.gitter.im/maps-gl/maps-gl.svg)](https://gitter.im/maps-gl/maps-gl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
