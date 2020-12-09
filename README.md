@@ -10,4 +10,6 @@ Please reach out: aloha@mapsgl.org
 
 ## License
 
+[![Join the chat at https://gitter.im/maps-gl/maps-gl](https://badges.gitter.im/maps-gl/maps-gl.svg)](https://gitter.im/maps-gl/maps-gl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MapsGL is licensed under the [3-Clause BSD license](./LICENSE.txt).
