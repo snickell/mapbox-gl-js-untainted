@@ -1,6 +1,6 @@
 {
   "name": "maps-gl",
-  "description": "BSD licensed fork of mapbox-gl, a WebGL interactive maps library",
+  "description": "BSD licensed community fork of mapbox-gl, a WebGL interactive maps library",
   "version": "1.13.0",
   "main": "dist/mapbox-gl.js",
   "style": "dist/mapbox-gl.css",
