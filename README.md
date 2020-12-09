@@ -4,7 +4,7 @@
 
 Anyone with a stake in a healthy community fork is welcome to contribute and discuss our next steps:
 
-[chat on gitter](https://gitter.im/maps-gl/maps-gl) or hackerswelcome@mapsgl.org
+To contribute in the early stages, [chat on gitter](https://gitter.im/maps-gl/maps-gl) or email hackerswelcome@mapsgl.org
 
 In the short term, we'll be very open in granting project leadership/commit privileges. When in doubt, we favour including everyone affected by the license change, with the goal of minimizing fragmentation.
 
